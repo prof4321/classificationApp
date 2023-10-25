@@ -5,7 +5,7 @@
 
 ![CompCat](resources/imgs/Filter-pana.png)
 
-This repository serves as the foundation for *my final project* in pursuit of an **MSc. Degree in Data Science** from Teesside University. It features template code designed to enable users to perform Company Categorization (CompCat) using a dynamic model that frequently updates and accurately categorizes companies based on their description. This tool can be used to identify changes in the data over time and facilitate targeted interventions. The project is built using the [Streamlit](https://www.streamlit.io/)Streamlit web application framework, ensuring a streamlined and user-friendly experience.
+This repository consist of one of my inquisitiveness to using making machine better the life of all. This propject features template code designed to enable users to perform Company Categorization (CompCat) using a dynamic model that frequently updates and accurately categorizes companies based on their description. This tool can be used to identify changes in the data over time and facilitate targeted interventions. The project is built using the [Streamlit](https://www.streamlit.io/)Streamlit web application framework, ensuring a streamlined and user-friendly experience.
 
 
 #### 1.1) Description of contents
