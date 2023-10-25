@@ -34,7 +34,7 @@ To do this, follow the steps below by running the given commands within a Git ba
  1. Ensure that you have the prerequisite Python libraries installed on your local machine using the requirement.txt:
 
  ```bash
- pip install r requirements.txt
+ pip install -r requirements.txt
  ```
 
  2. Clone the repo to your local machine.
