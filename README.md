@@ -14,13 +14,13 @@ Below is a high-level description of the contents within the CompApp:
 
 | File Name                             | Description                                                       |
 | :---------------------                | :--------------------                                             |
-| `streamlit`                           | Base Streamlit application definition.                             |
-| `pages/Homepage.py/`                  | consists of the introduction of the app with a logo        | 
+| `streamlit`                           | Base Streamlit application definition.                            |
+| `Homepage.py`                         | consists of the introduction of the app with a logo               | 
 | `pages/Contact.py/`                   | contains a short form to contact the developer of the app         |
-| `pages/Projects.py/`                  | contains the insights, and different models page         |
+| `pages/Projects.py/`                  | contains the insights, and different models page                  |
 | `resources/data/`                     | Sample data used to demonstrate app functioning.                  |
 | `resources/models/`                   | Folder to store model and data binaries if produced.              |
-| `resources/img/`                      | Folder to hold image for the Streamlit app |
+| `resources/img/`                      | Folder to hold image for the Streamlit app                        |
 
 ## 2) Usage Instructions
 
@@ -46,7 +46,7 @@ To do this, follow the steps below by running the given commands within a Git ba
  3. Navigate to the base of the cloned repo, and start the Streamlit app.
 
  ```bash
- cd Multi_classification\pages/
+ cd Multi_classification\
  streamlit run Homepage.py
  ```
 
